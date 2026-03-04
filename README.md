@@ -3,7 +3,7 @@
 QA Engineer | Web Developer | UX/UI | Cybersecurity Enthusiast. </a></h2>
 <h3><em>Creating quality web experiences through thoughtful design, strategic testing, user-first development, and dependable automation.</em></h3>
 
-### 🔧 Tech & Tools  
+### Tech & Tools  
 **Languages:** JavaScript, TypeScript, Python, Java  
 
 **Frontend & Design:** React, HTML/CSS, Figma  
@@ -12,5 +12,5 @@ QA Engineer | Web Developer | UX/UI | Cybersecurity Enthusiast. </a></h2>
 
 **Tools & Infrastructure:** Jira, Linear, GitHub Actions, Docker
 
-### Let’s Connect!  
+### Let’s Connect.
 [LinkedIn](https://www.linkedin.com/in/askye-qa-sdet-ux-web/) • [Medium](https://medium.com/@az.sk.](https://medium.com/@azama)) 
