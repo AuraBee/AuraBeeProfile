@@ -4,9 +4,12 @@ QA Engineer | Web Developer | UX/UI | Cybersecurity Enthusiast. </a></h2>
 <h3><em>Creating quality web experiences through thoughtful design, strategic testing, user-first development, and dependable automation.</em></h3>
 
 ### 🔧 Tech & Tools  
-**Languages:** JavaScript, TypeScript, Python, Java
-**Frontend & Design:** React, HTML/CSS, Figma
-**Testing & QA:** Playwright, Selenium, Cucumber (BDD), Postman
+**Languages:** JavaScript, TypeScript, Python, Java  
+
+**Frontend & Design:** React, HTML/CSS, Figma  
+
+**Testing & QA:** Playwright, Selenium, Cucumber (BDD), Postman  
+
 **Tools & Infrastructure:** Jira, Linear, GitHub Actions, Docker
 
 ### Let’s Connect!  
